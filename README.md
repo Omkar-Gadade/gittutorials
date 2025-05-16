@@ -9,3 +9,5 @@ Instructions on how to install and use it.
 ## Usage
 
 Examples and screenshots if needed.
+Please add some more docs
+
